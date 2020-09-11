@@ -1,2 +1,2 @@
 #!/bin/sh
-ls -l 
+ls -l sed -e 'n:p'
