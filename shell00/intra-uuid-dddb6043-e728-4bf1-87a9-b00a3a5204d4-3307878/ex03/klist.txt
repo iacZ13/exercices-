@@ -1,0 +1,5 @@
+Credentials cache: API:B5DE24D8-E024-4D40-B366-D5DC2327BF1B
+        Principal: ichikri@S19.BE
+
+  Issued                Expires               Principal
+Sep 11 18:13:17 2020  Sep 12 04:13:14 2020  krbtgt/S19.BE@S19.BE
